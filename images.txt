@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 n8nio/n8n:latest
 nginx:alpine
+n8n-puppeteer:latest
